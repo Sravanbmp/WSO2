@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<localEntry key="myconfiguration" xmlns="http://ws.apache.org/ns/synapse">
+    <file.init>
+        <strictHostKeyChecking>false</strictHostKeyChecking>
+        <connectionType>SFTP</connectionType>
+        <password>Srujan@1010</password>
+        <host>c2n2.files.com</host>
+        <fileLockScheme>Local</fileLockScheme>
+        <workingDir>/testing</workingDir>
+        <sftpConnectionTimeout>100000</sftpConnectionTimeout>
+        <setAvoidPermission>false</setAvoidPermission>
+        <userDirIsRoot>false</userDirIsRoot>
+        <port>22</port>
+        <name>mysftp</name>
+        <sftpSessionTimeout>150000</sftpSessionTimeout>
+        <username>viratpuli@gmail.com</username>
+    </file.init>
+</localEntry>
